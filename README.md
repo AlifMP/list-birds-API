@@ -1,7 +1,7 @@
 # List Birds API
 
 <div align=center>
-  <img src='./assets/result1.png' alt='thumbnail' />
+  <img src='./assets/result2.png' alt='thumbnail' />
 </div>
 
 <p align=center>List Birds Using RESTful API</p>
